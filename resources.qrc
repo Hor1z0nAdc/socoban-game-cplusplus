@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>dark_crate.png</file>
+        <file>floor.png</file>
+        <file>target.png</file>
+        <file>wall.png</file>
+        <file>crate.png</file>
+        <file>player.png</file>
+    </qresource>
+</RCC>
